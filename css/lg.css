@@ -1,0 +1,36 @@
+@media screen and (max-width: 992px){
+    #imgPrincipal{
+        width: 100%;
+        height: 260;
+    }
+
+    #conoce{
+        min-width: 365px;
+        height: 260;
+        font-size: 28px;
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+    .secciones{
+        padding: 7% 2.5%;
+    }
+    #quienes h1{
+        font-size: 2.5rem;
+    }
+    .secciones{
+        padding: 5% 7%;
+    }
+    .info{
+        width: 250px;
+    }
+
+
+    /*--AVISO---------------------------------------------------------------------------------------------------*/
+    #aviso{
+        font-size: 2rem;
+    }
+    
+}
+
+
+    
